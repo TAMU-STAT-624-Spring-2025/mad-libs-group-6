@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. John
+2. smart
+3. goofy
+4. blue
+5. October
+6. 15
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
