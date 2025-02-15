@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. John
+2. smart
+3. goofy
+4. blue
+5. October
+6. 15
 7. baseballs
 8. books
 9. flashlight
 10. kitchen
 11. coffee
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+12. Shiny
+13. Steel
+14. Reading
+15. Gently
+16. 3
+17. years
+18. swimming
+19. magical
+20. submarine
+21. Leo
