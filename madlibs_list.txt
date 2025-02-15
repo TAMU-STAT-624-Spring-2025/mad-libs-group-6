@@ -4,11 +4,11 @@
 4. blue
 5. October
 6. 15
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. baseballs
+8. books
+9. flashlight
+10. kitchen
+11. coffee
 12. Shiny
 13. Steel
 14. Reading
